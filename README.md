@@ -44,3 +44,4 @@ python main.py -d encoded.txt -o decoded.txt
 - [] Optimize codebase (specifically the Steepest Ascent algorithm) to be more efficient and faster. 
 - [] Increase diveristy of proposals for imrpovements when generating neighboring solutions in the Steepest Ascent algorithm.
 - [] Use probabilities or noramalized log counts to evaluate key 
+- [] My main goal is to implement a more advanced algorithm, ultilizing the Markov Chain Monte Carlo (MCMC) method, which is a more sophisticated approach for searching the key space than Steepest Ascent
